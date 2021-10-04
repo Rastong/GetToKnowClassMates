@@ -1,0 +1,14 @@
+C:\Users\Raston\source\repos\Get to know your classmates\Get to know your classmates\bin\Debug\netcoreapp3.1\Get to know your classmates.exe
+C:\Users\Raston\source\repos\Get to know your classmates\Get to know your classmates\bin\Debug\netcoreapp3.1\Get to know your classmates.deps.json
+C:\Users\Raston\source\repos\Get to know your classmates\Get to know your classmates\bin\Debug\netcoreapp3.1\Get to know your classmates.runtimeconfig.json
+C:\Users\Raston\source\repos\Get to know your classmates\Get to know your classmates\bin\Debug\netcoreapp3.1\Get to know your classmates.runtimeconfig.dev.json
+C:\Users\Raston\source\repos\Get to know your classmates\Get to know your classmates\bin\Debug\netcoreapp3.1\Get to know your classmates.dll
+C:\Users\Raston\source\repos\Get to know your classmates\Get to know your classmates\bin\Debug\netcoreapp3.1\Get to know your classmates.pdb
+C:\Users\Raston\source\repos\Get to know your classmates\Get to know your classmates\obj\Debug\netcoreapp3.1\Get to know your classmates.csproj.AssemblyReference.cache
+C:\Users\Raston\source\repos\Get to know your classmates\Get to know your classmates\obj\Debug\netcoreapp3.1\Get to know your classmates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raston\source\repos\Get to know your classmates\Get to know your classmates\obj\Debug\netcoreapp3.1\Get to know your classmates.AssemblyInfoInputs.cache
+C:\Users\Raston\source\repos\Get to know your classmates\Get to know your classmates\obj\Debug\netcoreapp3.1\Get to know your classmates.AssemblyInfo.cs
+C:\Users\Raston\source\repos\Get to know your classmates\Get to know your classmates\obj\Debug\netcoreapp3.1\Get to know your classmates.csproj.CoreCompileInputs.cache
+C:\Users\Raston\source\repos\Get to know your classmates\Get to know your classmates\obj\Debug\netcoreapp3.1\Get to know your classmates.dll
+C:\Users\Raston\source\repos\Get to know your classmates\Get to know your classmates\obj\Debug\netcoreapp3.1\Get to know your classmates.pdb
+C:\Users\Raston\source\repos\Get to know your classmates\Get to know your classmates\obj\Debug\netcoreapp3.1\Get to know your classmates.genruntimeconfig.cache
